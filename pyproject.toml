@@ -1,0 +1,5 @@
+[project]
+name="autosite"
+description="Automatically find .pth and call site.addsitedir"
+version="1.0"
+
